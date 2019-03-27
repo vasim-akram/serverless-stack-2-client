@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+.Home .lander div {
+  padding-top: 20px;
+}
+.Home .lander div a:first-child {
+  margin-right: 20px;
+}
